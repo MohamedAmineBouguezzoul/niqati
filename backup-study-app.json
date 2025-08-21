@@ -1,0 +1,281 @@
+{
+  "points": 0,
+  "streak": {
+    "count": 0,
+    "lastDone": null
+  },
+  "subjects": [
+    {
+      "id": "5bzuhrf",
+      "name": "أصول الدين : ثلاثة الأصول",
+      "pagesTotal": 34,
+      "pagesRead": 0,
+      "memTotal": 31,
+      "memDone": 0
+    },
+    {
+      "id": "s4d10ce",
+      "name": "النحو : الآجرومية",
+      "pagesTotal": 26,
+      "pagesRead": 0,
+      "memTotal": 0,
+      "memDone": 0
+    },
+    {
+      "id": "fsb1f9w",
+      "name": "البلاغة : مائة المعاني والبيان",
+      "pagesTotal": 100,
+      "pagesRead": 0,
+      "memTotal": 0,
+      "memDone": 0
+    },
+    {
+      "id": "97s7rq2",
+      "name": "متون الحديث : الأربعون النووية",
+      "pagesTotal": 131,
+      "pagesRead": 0,
+      "memTotal": 50,
+      "memDone": 0
+    },
+    {
+      "id": "jnsijmg",
+      "name": "الفقه المالكي",
+      "pagesTotal": 100,
+      "pagesRead": 0,
+      "memTotal": 0,
+      "memDone": 0
+    },
+    {
+      "id": "x54xgvc",
+      "name": "الصرف : بناء الأفعال",
+      "pagesTotal": 26,
+      "pagesRead": 0,
+      "memTotal": 0,
+      "memDone": 0
+    },
+    {
+      "id": "wodi8wp",
+      "name": "طلب العلم وآدابه (خلاصة تعظيم العلم )",
+      "pagesTotal": 47,
+      "pagesRead": 0,
+      "memTotal": 0,
+      "memDone": 0
+    },
+    {
+      "id": "ql8n69q",
+      "name": "أصول الفقه : متن الورقات",
+      "pagesTotal": 41,
+      "pagesRead": 0,
+      "memTotal": 38,
+      "memDone": 0
+    },
+    {
+      "id": "um7gfr3",
+      "name": "الإملاء : قواعد الإملاء",
+      "pagesTotal": 79,
+      "pagesRead": 0,
+      "memTotal": 0,
+      "memDone": 0
+    },
+    {
+      "id": "5ookumc",
+      "name": "علوم الحديث : البيقونية",
+      "pagesTotal": 57,
+      "pagesRead": 0,
+      "memTotal": 0,
+      "memDone": 0
+    },
+    {
+      "id": "touje5m",
+      "name": "علوم القرآن : علم التفسير من النقاية",
+      "pagesTotal": 75,
+      "pagesRead": 0,
+      "memTotal": 0,
+      "memDone": 0
+    },
+    {
+      "id": "rzmb42y",
+      "name": "السيرة : الأرجوزة الميئية",
+      "pagesTotal": 100,
+      "pagesRead": 0,
+      "memTotal": 0,
+      "memDone": 0
+    }
+  ],
+  "achievements": [
+    {
+      "id": "jqettxk",
+      "name": "جلسة متواصلة لثلاثين دقيقة",
+      "pts": 10
+    },
+    {
+      "id": "h2cf4af",
+      "name": "جلسة متواصلة لساعة",
+      "pts": 30
+    },
+    {
+      "id": "mzrvz8n",
+      "name": "حفظ سورة البقرة",
+      "pts": 400
+    },
+    {
+      "id": "lo7ccb3",
+      "name": "حفظ الأربعين النووية",
+      "pts": 80
+    },
+    {
+      "id": "yorb5zn",
+      "name": "حفظ 5 أسطر من متن صغير",
+      "pts": 10
+    },
+    {
+      "id": "ycmlx7z",
+      "name": "إكمال أسبوع كامل بلا انقطاع",
+      "pts": 5
+    },
+    {
+      "id": "xab3dxx",
+      "name": "إكمال شهر كامل بلا انقطاع",
+      "pts": 30
+    }
+  ],
+  "rewards": [
+    {
+      "id": "cs3t5nk",
+      "name": "شوكولاتة",
+      "cost": 20
+    },
+    {
+      "id": "wrfu6d6",
+      "name": "بيرلي",
+      "cost": 30
+    }
+  ],
+  "redemptions": [  
+  ],
+  "weekPlan": {
+  "الأحد": [
+    {
+      "subjId": "5bzuhrf",
+      "plan": "أصول الدين : ثلاثة الأصول"
+    },
+    {
+      "subjId": "s4d10ce",
+      "plan": "النحو : الآجرومية"
+    },
+    {
+      "subjId": "fsb1f9w",
+      "plan": "البلاغة : مائة المعاني والبيان"
+    }
+  ],
+  "الإثنين": [
+    {
+      "subjId": "97s7rq2",
+      "plan": "متون الحديث : الأربعون النووية"
+    },
+    {
+      "subjId": "jnsijmg",
+      "plan": "الفقه المالكي"
+    },
+    {
+      "subjId": "x54xgvc",
+      "plan": "الصرف : بناء الأفعال"
+    }
+  ],
+  "الثلاثاء": [
+    {
+      "subjId": "wodi8wp",
+      "plan": "طلب العلم وآدابه (خلاصة تعظيم العلم)"
+    },
+    {
+      "subjId": "ql8n69q",
+      "plan": "أصول الفقه : متن الورقات"
+    },
+    {
+      "subjId": "um7gfr3",
+      "plan": "الإملاء : قواعد الإملاء"
+    }
+  ],
+  "الأربعاء": [
+    {
+      "subjId": "5ookumc",
+      "plan": "علوم الحديث : البيقونية"
+    },
+    {
+      "subjId": "s4d10ce",
+      "plan": "النحو : الآجرومية"
+    },
+    {
+      "subjId": "jnsijmg",
+      "plan": "الفقه المالكي"
+    }
+  ],
+  "الخميس": [
+    {
+      "subjId": "touje5m",
+      "plan": "علوم القرآن : علم التفسير من النقاية"
+    },
+    {
+      "subjId": "rzmb42y",
+      "plan": "السيرة : الأرجوزة الميئية"
+    },
+    {
+      "subjId": "5bzuhrf",
+      "plan": "أصول الدين : ثلاثة الأصول"
+    }
+  ],
+  "الجمعة": [
+    {
+      "subjId": "97s7rq1",
+      "plan": "مراجعة وحفظ"
+    },
+    {
+      "subjId": "97s7rq3",
+      "plan": "استظهار"
+    },
+    {
+      "subjId": "97s7rq5",
+      "plan": "راحة"
+    }
+  ],
+  "السبت": [
+    {
+      "subjId": "97s7rq1",
+      "plan": "مراجعة وحفظ"
+    },
+    {
+      "subjId": "97s7rq3",
+      "plan": "استظهار"
+    },
+    {
+      "subjId": "97s7rq5",
+      "plan": "راحة"
+    }
+  ]
+}
+,
+  "today": {
+    "date": "2025-08-16",
+    "sessions": [
+      {
+        "plan": "",
+        "subjId": "null",
+        "done": true
+      },
+      {
+        "subjId": "null",
+        "plan": "",
+        "done": true
+      },
+      {
+        "subjId": "null",
+        "plan": "",
+        "done": true
+      }
+    ],
+    "notes": "",
+    "todos": []
+  }
+}
+
+

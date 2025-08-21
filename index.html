@@ -681,7 +681,20 @@
       const f=document.getElementById('backupFile').files[0]; if(!f) return alert('اختر ملف النسخة');
       const reader=new FileReader(); reader.onload=()=>{ try{ const data=JSON.parse(reader.result); Object.assign(state, data); persist(); initAll(); alert('تم الاسترجاع.'); }catch(e){ alert('ملف غير صالح'); } }; reader.readAsText(f);
     }
-
+    // —— استرجاع تلقائي من الملف على GitHub ——
+    async function autoRestoreFromFile() {
+    try {
+    const res = await fetch('backup-study-app.json', {cache: "no-store"});
+    if (!res.ok) return;
+    const data = await res.json();
+    Object.assign(state, data);
+    persist();
+    initAll();
+    console.log("✅ تمت الاستعادة من backup-study-app.json");
+    } catch (e) {
+    console.warn("⚠️ لم يتم العثور على نسخة احتياطية:", e.message);
+    }
+    }
     // ——— التهيئة العامة ———
     function updateUI(){
       document.getElementById('kpiPoints').textContent = state.points;
@@ -691,7 +704,10 @@
     }
 
     function initAll(){ initToday(); buildWeekGrid(); updateTimer(); updateUI(); }
-    window.addEventListener('load', initAll);
+    window.addEventListener('load', async () => {
+    await autoRestoreFromFile();
+    initAll();
+    });
   </script>
 </body>
 </html>
